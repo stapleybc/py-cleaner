@@ -1,6 +1,6 @@
 # py-cleaner
 
-![tests](https://github.com/YOUR-USERNAME/py-cleaner/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/stapleybc/py-cleaner/actions/workflows/tests.yml/badge.svg)
 
 A small, well-tested Python module that turns messy CSV exports into clean,
 UTF-8, SQL-ready data.
@@ -34,7 +34,7 @@ customer_id,first_name,first_name_2,zip_code,active,amount
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/py-cleaner.git
+git clone https://github.com/stapleybc/py-cleaner.git
 cd py-cleaner
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
